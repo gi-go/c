@@ -2,6 +2,7 @@
 // Programa que presenta en pantalla
 // el mensaje Hola Mundo
 // ***********************
+// ***********************
 #include <stdio.h>
 
 int main ()
